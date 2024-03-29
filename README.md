@@ -146,6 +146,8 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 2. [Dfinity](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
 
+3. [ICPHubPH](https://github.com/ICPHubPH)
+    
 #### [Back to Table of Content](#introduction)
 
 
