@@ -1,9 +1,16 @@
-# iThink-hackathon
-iThink Hackathon by ICP HUB Philippines "Push to the Limits” – A nationwide #Web3 Philippine Hackathon By Blockseblock
+# 💫 iThink-hackathon
+#### iThink Hackathon by ICP HUB Philippines "Push to the Limits” – A nationwide #Web3 Philippine Hackathon By Blockseblock
 
-<img src="images/Hackaton.jpg">
+<img src="images/Hackaton.jpg"> 
 
-### Description: 
+### Team Name: [Artificial Ledger](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  🇵🇭
+### Team Member: 
+* ####  [Jay Arre Talosig](https://github.com/flexycode)
+* ####  [Emil John Llanes](https://github.com/0CottonBuds)      
+* ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)   
+* ####  [Luisryan Sanisit](https://github.com/Yisaaaa) 
+  
+### Description:  
 #### "Push to the Limits” – A nationwide #Web3 Philippine Hackathon 🚀
 
 * Brought you by ISLA Camp (ICP HUB Philippines)
@@ -122,9 +129,13 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 # Judging criteria:
 • Impact: Desirability for the Internet Computer Blockchain ecosystem.
+
 • Business Value: Potential financial success and marketability.
+
 • Communication: Clear conveyance of features, problems addressed, and benefits.
+
 • Innovation: Fresh approach, unique problem-solving, or redefining solutions.
+
 • ICP Technical Implementation: Exemplary use of Internet Computer's features.
 
 
