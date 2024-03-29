@@ -3,11 +3,13 @@
 
 <img src="images/Hackaton.jpg"> 
 
-### Team Name: [Artificial Ledger](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  🇵🇭
-### Team Member: 
-* ####  [Jay Arre Talosig](https://github.com/flexycode)
+## [Introduction](#introduction) 
+
+### 🧊 Team Name: [Artificial Ledger](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  🇵🇭 
+### 🕵️ Team Member:  
+* ####  [Jay Arre Talosig](https://github.com/flexycode) 
 * ####  [Emil John Llanes](https://github.com/0CottonBuds)      
-* ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)   
+* ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)    
 * ####  [Luisryan Sanisit](https://github.com/Yisaaaa) 
   
 ### Description:  
@@ -113,7 +115,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * ISLA Camp (ICP HUB Philippines) shall be considered as the organizer of the hackathon challenge with the support of Blockseblock team
 #### 2. Conditions for entering the hackathon
 1. The hackathon is free to join for all
-2. The participants must abide with the eligibility criteria set at the hackathon description
+2. The participants must abide with the eligibility criteria set at the hackathon description 
 3. The delivery of the prize will be conditional upon the capacity of the participant to meet the hackathon description stated
 4. There is only one entry per team in the hackathon
 5. Any participants/ teams who doesn’t abide by the terms of the Rules during his/her Registration and at any time during the Hackathon will be automatically and without previous
@@ -138,6 +140,12 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 • ICP Technical Implementation: Exemplary use of Internet Computer's features.
 
+### Important Source and documentation:
 
+1. [Internetcomputer.org](https://internetcomputer.org/docs/current/developer-docs/developer-tools/dev-tools-overview?fbclid=IwAR3jhVUazB7FPLd3P-v9-YOM0MEpt5mQgY1aW0g00CPdiNHbIEvBFI26K18_aem_AU8K0_FAA4sipGzakyU1zjTb1R67_F8D5LNdvJ8eXr2yVNo4-QcCuIDKUXkODgQAKi6Jr6LgOHe3Ty2AyKmf3JEX) 
+
+2. [Dfinity](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
+
+#### [Back to Table of Content](#introduction)
 
 
