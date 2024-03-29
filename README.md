@@ -14,31 +14,34 @@ iThink Hackathon by ICP HUB Philippines "Push to the Limits” – A nationwide 
 * Looking to be incubated by ISLA Camp (ICP HUB Philippines) and jumpstart their journey into blockchain and Web3
 * Looking to get funding via Grants 
 
-Why Join?
+##### Why Join?
 
-Your chance to showcase your talent and skills in coding and contribute to Web3 and the Internet Computer Protocol.
-Be able to be incubated and get further funding via Grants on top of the pool prize.
-Be recognized globally and open up your ideas to a larger audience specifically Top VCs, Known Founders of the Web3 ecosystem, and Top Project builders
-Eligibility Criteria
+* Your chance to showcase your talent and skills in coding and contribute to Web3 and the Internet Computer Protocol.
+* Be able to be incubated and get further funding via Grants on top of the pool prize.
+* Be recognized globally and open up your ideas to a larger audience specifically Top VCs, Known Founders of the Web3 ecosystem, and Top Project builders
 
-Must not have received a grant from the DFINITY Foundation on the submitted project
-Must not have received a grant from other Blockchain Foundations in the past 6-months
-Must not have received any funding or investment on the project they wish to submit
+#### Eligibility Criteria 
+
+* Must not have received a grant from the DFINITY Foundation on the submitted project
+* Must not have received a grant from other Blockchain Foundations in the past 6-months
+* Must not have received any funding or investment on the project they wish to submit
 Ideally, the project should be unique to the Internet Computer Protocol
-Should be a resident of the Philippines
-Must have members over the age of 18
-Must complete registration before deadline
-What to submit? (at the end of the hackathon – subject to change based on progression)
+* Should be a resident of the Philippines
+* Must have members over the age of 18
+* Must complete registration before deadline
 
-Project description or pitch deck
-Project logo
-Project deployed to Mainnet 
-Open-source Project repository (Github)
-Canister ID
-README (here is a good example)
-Video (around 5-minutes)
-Should include an overview of project and features
-Must include a demonstration of your project
+#### ```What to submit?``` (at the end of the hackathon – subject to change based on progression)
+
+* Project description or pitch deck 
+* Project logo
+* Project deployed to Mainnet 
+* Open-source Project repository (Github)
+* Canister ID
+* README (here is a good [(example)](https://github.com/dfinity/grant-rfps/blob/main/repo-checklist.md#blue_book-create-an-informative-readme) 
+* Video (around 5-minutes)
+* Should include an overview of project and features
+* Must include a demonstration of your project
+
 Workshop structure: 
 
 1. There will be 5 workshops that will run throughout the duration of the hackathon. Participants are encouraged to attend. 
