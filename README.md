@@ -32,7 +32,7 @@ Ideally, the project should be unique to the Internet Computer Protocol
 
 #### ```What to submit?``` (at the end of the hackathon – subject to change based on progression)
 
-* Project description or pitch deck 
+* Project description or pitch deck  
 * Project logo
 * Project deployed to Mainnet 
 * Open-source Project repository (Github)
@@ -42,7 +42,7 @@ Ideally, the project should be unique to the Internet Computer Protocol
 * Should include an overview of project and features
 * Must include a demonstration of your project
 
-Workshop structure: 
+#### Workshop structure: 
 
 1. There will be 5 workshops that will run throughout the duration of the hackathon. Participants are encouraged to attend. 
 
@@ -58,13 +58,13 @@ Workshop structure:
 
 
 
-Workshop Schedules: 
+#### Workshop Schedules: 
 
 1. Workshop #1 - April 8 (Monday)
 
 Topic: Introduction to ICP
 
-2. Workshop #2 - April 9 (Tuesday)
+2. Workshop #2 - April 9 (Tuesday) 
 
 Topic: Introduction to building with Azle
 
@@ -79,5 +79,7 @@ Topic: Deploy First TypeScript Project
 5. Workshop #5 - April 12 (Friday)
 
 Topic: Doubt Clearing and Deploy Project on ICP
+
+
 
 
