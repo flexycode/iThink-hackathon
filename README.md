@@ -12,7 +12,7 @@
 * ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)    
 * ####  [Luisryan Sanisit](https://github.com/Yisaaaa) 
   
-### Description:  
+### Description:   
 #### "Push to the Limits” – A nationwide #Web3 Philippine Hackathon 🚀
 
 * Brought you by ISLA Camp (ICP HUB Philippines)
@@ -29,7 +29,7 @@
 * Be able to be incubated and get further funding via Grants on top of the pool prize.
 * Be recognized globally and open up your ideas to a larger audience specifically Top VCs, Known Founders of the Web3 ecosystem, and Top Project builders
 
-#### Eligibility Criteria 🚀
+#### Eligibility Criteria 🚀 
 
 * Must not have received a grant from the DFINITY Foundation on the submitted project
 * Must not have received a grant from other Blockchain Foundations in the past 6-months
@@ -147,6 +147,8 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 2. [Dfinity](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
 
 3. [ICPHubPH](https://github.com/ICPHubPH)
+
+4. [Blockseblock](https://blockseblock.com/hackathon) 
     
 #### [Back to Table of Content](#introduction)
 
