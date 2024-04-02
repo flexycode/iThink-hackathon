@@ -155,12 +155,15 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * Any suggestion for this hackaton?
 
 ### Tech Stacks to be use:
-
+* HTML
+* CSS
+* JavaScript
 * TypeScript
 * Node.js
 * canisters? is that new motoko?
 * motoko? canister actor??
 * Rust?
+* Git
 
 
 
