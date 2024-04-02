@@ -149,7 +149,13 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 3. [ICPHubPH](https://github.com/ICPHubPH)
 
 4. [Blockseblock](https://blockseblock.com/hackathon) 
-    
+
+### Brainstorming Ideas
+
+
+
+
+
 #### [Back to Table of Content](#introduction)
 
 
