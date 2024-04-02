@@ -157,6 +157,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 * TypeScript
 * Node.js
+* canisters
 
 
 
