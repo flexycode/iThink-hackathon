@@ -153,6 +153,10 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 ### Brainstorming Ideas
 
 
+### Tech Stacks
+
+* TypeScript 
+
 
 
 
