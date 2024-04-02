@@ -152,14 +152,15 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 ### Brainstorming Ideas
 
+* Any suggestion for this hackaton?
 
-### Tech Stacks
+### Tech Stacks to be use:
 
 * TypeScript
 * Node.js
 * canisters? is that new motoko?
 * motoko? canister actor??
-* 
+* Rust?
 
 
 
