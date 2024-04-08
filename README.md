@@ -140,7 +140,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 • ICP Technical Implementation: Exemplary use of Internet Computer's features.
 
-### Important Source and documentation:
+### ✨ Important Source and documentation:
 
 1. [Internetcomputer.org](https://internetcomputer.org/docs/current/developer-docs/developer-tools/dev-tools-overview?fbclid=IwAR3jhVUazB7FPLd3P-v9-YOM0MEpt5mQgY1aW0g00CPdiNHbIEvBFI26K18_aem_AU8K0_FAA4sipGzakyU1zjTb1R67_F8D5LNdvJ8eXr2yVNo4-QcCuIDKUXkODgQAKi6Jr6LgOHe3Ty2AyKmf3JEX) 
 
@@ -150,8 +150,11 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 4. [Blockseblock](https://blockseblock.com/hackathon) 
 
-### Brainstorming Ideas
+### ✨ 
 
+
+### Brainstorming Ideas 
+ 
 * Any suggestion for this hackaton?
 
 ### Tech Stacks to be use:
@@ -160,8 +163,8 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * JavaScript
 * TypeScript
 * Node.js
-* canisters? is that new motoko?
-* motoko? canister actor??
+* canister smart contract
+* motoko maybe?
 * Rust?
 * Git
 
