@@ -142,7 +142,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 ### ✨ Important Source and documentation:
 
-1. [Internetcomputer.org](https://internetcomputer.org/docs/current/developer-docs/developer-tools/dev-tools-overview?fbclid=IwAR3jhVUazB7FPLd3P-v9-YOM0MEpt5mQgY1aW0g00CPdiNHbIEvBFI26K18_aem_AU8K0_FAA4sipGzakyU1zjTb1R67_F8D5LNdvJ8eXr2yVNo4-QcCuIDKUXkODgQAKi6Jr6LgOHe3Ty2AyKmf3JEX) 
+1. [Internetcomputer.org](https://internetcomputer.org/docs/current/developer-docs/developer-tools/dev-tools-overview?fbclid=IwAR3jhVUazB7FPLd3P-v9-YOM0MEpt5mQgY1aW0g00CPdiNHbIEvBFI26K18_aem_AU8K0_FAA4sipGzakyU1zjTb1R67_F8D5LNdvJ8eXr2yVNo4-QcCuIDKUXkODgQAKi6Jr6LgOHe3Ty2AyKmf3JEX)  
 
 2. [Dfinity](https://github.com/dfinity/grant-rfps/blob/main/requests-for-startups.md)
 
@@ -150,7 +150,9 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 4. [Blockseblock](https://blockseblock.com/hackathon) 
 
-### ✨ 
+### ✨ Important Source during Day 1 WorkShop
+* [Twitter.com/icphub_PH](https://twitter.com/icphub_PH)
+* 
 
 
 ### Brainstorming Ideas 
