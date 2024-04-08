@@ -151,14 +151,14 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 4. [Blockseblock](https://blockseblock.com/hackathon) 
 
 ### ✨ Important Source during Day 1 WorkShop
-* [Twitter.com/icphub_PH](https://twitter.com/icphub_PH)
-* [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home)
-* [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem)
-* [Internetcomputer.org](https://internetcomputer.org)
+* [Twitter.com/icphub_PH](https://twitter.com/icphub_PH) - ICPhub Philippines Twitter page
+* [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home) - ICP documentation overview
+* [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem) - ICP Ecosystem
+* [Internetcomputer.org](https://internetcomputer.org) - ICP Website
 * [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) - Similar to GraphQL or POSTMAN, Insomnia, SoapUI 
 * [Cycle Wallet](https://236go-6yaaa-aaaan-qmd4a-cai.icp0.io/) - This should be the overview after the Canister deployed into the mainnet, I guess.
 * [Network Nervous System](https://nns.ic0.app/tokens/) - Manage your ICP, ckBTC, and SNS governance tokens within the NNS wallet
-* 
+* [Motoko](https://internetcomputer.org/docs/current/motoko/main/motoko) - a Programming Language Designed for the Internet Computer, it supports Orthogonal persistence. Learn more about Motoko in there [Medium](https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735) article and [youtube](https://www.youtube.com/watch?v=4eSceDOS-Ms) channel. 
 
 ### Brainstorming Ideas 
  
