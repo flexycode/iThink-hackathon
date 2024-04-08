@@ -155,7 +155,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home)
 * [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem)
 * [Internetcomputer.org](https://internetcomputer.org)
-* 
+* [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) 
 
 ### Brainstorming Ideas 
  
