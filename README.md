@@ -153,7 +153,9 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 ### ✨ Important Source during Day 1 WorkShop
 * [Twitter.com/icphub_PH](https://twitter.com/icphub_PH)
 * [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home)
-
+* [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem)
+* [Internetcomputer.org](https://internetcomputer.org)
+* 
 
 ### Brainstorming Ideas 
  
