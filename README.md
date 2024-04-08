@@ -157,6 +157,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [Internetcomputer.org](https://internetcomputer.org)
 * [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) - Similar to GraphQL or POSTMAN, Insomnia, SoapUI 
 * [Cycle Wallet](https://236go-6yaaa-aaaan-qmd4a-cai.icp0.io/) - This should be the overview after the Canister deployed into the mainnet, I guess.
+* [Network Nervous System](https://nns.ic0.app/tokens/) - Manage your ICP, ckBTC, and SNS governance tokens within the NNS wallet
 * 
 
 ### Brainstorming Ideas 
