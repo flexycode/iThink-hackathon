@@ -160,7 +160,13 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [Network Nervous System](https://nns.ic0.app/tokens/) - Manage your ICP, ckBTC, and SNS governance tokens within the NNS wallet
 * [Motoko](https://internetcomputer.org/docs/current/motoko/main/motoko) - a Programming Language Designed for the Internet Computer, it supports Orthogonal persistence. Learn more about Motoko in there [Medium](https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735) article and [youtube](https://www.youtube.com/watch?v=4eSceDOS-Ms) channel. 
 
-### Brainstorming Ideas 
+### ✨ Important Source for Day 2 WorkShop
+* [Demergent Labs](https://github.com/demergent-labs)
+* 
+
+
+### Brainstorming Ideas  
+
  
 * Any suggestion for this hackaton?
 
