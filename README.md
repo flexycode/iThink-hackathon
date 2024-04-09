@@ -162,11 +162,13 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 
 ### ✨ Important Source for Day 2 WorkShop
 * [The Azle Book](https://demergent-labs.github.io/azle/)
+* [Installing tools](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/)
+* 
 
 ### ✨ Secret Source for this Hackathon WorkShop 
 * [Demergent Labs](https://github.com/demergent-labs)
 * [Demergent medium article](https://medium.com/dfinity/demergent-labs-typescript-graphql-and-python-on-the-internet-computer-325e4016ca8e)
-* [Kybra](https://demergent-labs.github.io/kybra/kybra.html) 
+* [Kybra](https://demergent-labs.github.io/kybra/kybra.html)  
 
 ### Brainstorming Ideas  
 
