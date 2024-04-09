@@ -170,12 +170,13 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [Demergent Labs](https://github.com/demergent-labs)
 * [Demergent medium article](https://medium.com/dfinity/demergent-labs-typescript-graphql-and-python-on-the-internet-computer-325e4016ca8e) 
 * [Kybra](https://demergent-labs.github.io/kybra/kybra.html)
-*  
+  
 
 ### Brainstorming Ideas  
-
- 
-* Any suggestion for this hackaton?
+```bash
+Will Upload in GC later
+If you have any suggestion for this hackaton, feel free to share
+``` 
 
 ### Tech Stacks to be use:
 * HTML
