@@ -167,13 +167,12 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [Canister Overview](https://demergent-labs.github.io/azle/canisters_overview.html)
 
 ### ✨ Important Source for Day 3 WorkShop
-* ✨
-* ✨
-* ✨
+* [ICP Developer Journey Tutorial Series](https://www.youtube.com/watch?v=oBUpJ4CqmN0&list=PLuhDt1vhGcrdR2h6nPNylXKS4u8L-efvD)  
+* [Blockseblock](https://twitter.com/Blockhacks) 
 
-### ✨ Secret Source for this Hackathon WorkShop 
+### ✨ Secret Source for this Hackathon WorkShop  
 * [Demergent Labs](https://github.com/demergent-labs)
-* [Demergent medium article](https://medium.com/dfinity/demergent-labs-typescript-graphql-and-python-on-the-internet-computer-325e4016ca8e) 
+* [Demergent medium article](https://medium.com/dfinity/demergent-labs-typescript-graphql-and-python-on-the-internet-computer-325e4016ca8e)  
 * [Kybra](https://demergent-labs.github.io/kybra/kybra.html)
   
 
