@@ -77,7 +77,7 @@ Topic: Introduction to ICP
 
 Topic: Introduction to building with Azle
 
-3. Workshop #3 - April 10 (Wednesday) 
+3. Workshop #3 - April 10 (Wednesday)  
 
 Topic: Why and how to build a project on the Internet Computer?
 
@@ -197,7 +197,8 @@ If you have any suggestion for this hackaton, feel free to share
 13. Miscellaneous
 14. Accounting
 15. Real Estate, Rental & Leasing
-16. Utilities				      
+16. Utilities
+17. Wholesale & Retail				       
 
 ### Tech Stacks to be use:
 * HTML
