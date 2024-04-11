@@ -183,7 +183,7 @@ If you have any suggestion for this hackaton, feel free to share
 ``` 
 ### Ideas for our entry
 1. Accommodation & Food
-
+2. Agriculture
 
 ### Tech Stacks to be use:
 * HTML
