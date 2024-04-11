@@ -181,6 +181,9 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 Will Upload in GC later
 If you have any suggestion for this hackaton, feel free to share
 ``` 
+### Ideas for our entry
+1. Accommodation & Food
+
 
 ### Tech Stacks to be use:
 * HTML
