@@ -191,7 +191,8 @@ If you have any suggestion for this hackaton, feel free to share
 7. Emergency & Relief
 8. Finance
 9. Manufacturing
-10. Government and Public Works				   
+10. Government and Public Works
+11. Healthcare	Media & Publishing				   
 
 ### Tech Stacks to be use:
 * HTML
