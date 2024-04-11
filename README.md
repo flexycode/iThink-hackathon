@@ -100,7 +100,7 @@ Topic: Doubt Clearing and Deploy Project on ICP
 
   ##### Philippine peso - (₱) 
 
-* 3rd (50000)
+* 3rd (50000) 
 * 2nd (75000)
 * 1st (100000)
 
@@ -163,7 +163,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 ### ✨ Important Source for Day 2 WorkShop
 * [The Azle Book](https://demergent-labs.github.io/azle/)
 * [Installing tools](https://internetcomputer.org/docs/current/developer-docs/getting-started/install/)
-* [Github](https://github.com/Mohd-anas0693/Eventer) of the eventer
+* [Github](https://github.com/Mohd-anas0693/Eventer) of the eventer 
 * [Canister Overview](https://demergent-labs.github.io/azle/canisters_overview.html)
 
 ### ✨ Important Source for Day 3 WorkShop
@@ -177,7 +177,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
   
 
 ### Brainstorming Ideas  
-```bash
+```bash 
 Will Upload in GC later
 If you have any suggestion for this hackaton, feel free to share
 ``` 
@@ -189,7 +189,8 @@ If you have any suggestion for this hackaton, feel free to share
 5. Construction & Engineering
 6. Education & Research
 7. Emergency & Relief
-8. Finance				
+8. Finance
+9. Manufacturing				   
 
 ### Tech Stacks to be use:
 * HTML
