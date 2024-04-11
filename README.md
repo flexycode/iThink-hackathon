@@ -187,7 +187,8 @@ If you have any suggestion for this hackaton, feel free to share
 3. Banking & Insurance
 4. Biotechnological & Life Sciences
 5. Construction & Engineering
-6. Education & Research		
+6. Education & Research
+7. Emergency & Relief			
 
 ### Tech Stacks to be use:
 * HTML
