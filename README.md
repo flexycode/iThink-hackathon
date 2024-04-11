@@ -155,7 +155,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home) - ICP documentation overview
 * [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem) - ICP Ecosystem
 * [Internetcomputer.org](https://internetcomputer.org) - ICP Website
-* [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) - Similar to GraphQL or POSTMAN, Insomnia, SoapUI 
+* [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) - Similar to GraphQL or POSTMAN, Insomnia, SoapUI  
 * [Cycle Wallet](https://236go-6yaaa-aaaan-qmd4a-cai.icp0.io/) - This should be the overview after the Canister deployed into the mainnet, I guess.
 * [Network Nervous System](https://nns.ic0.app/tokens/) - Manage your ICP, ckBTC, and SNS governance tokens within the NNS wallet
 * [Motoko](https://internetcomputer.org/docs/current/motoko/main/motoko) - a Programming Language Designed for the Internet Computer, it supports Orthogonal persistence. Learn more about Motoko in there [Medium](https://medium.com/dfinity/motoko-a-programming-language-designed-for-the-internet-computer-is-now-open-source-8d85da4db735) article and [youtube](https://www.youtube.com/watch?v=4eSceDOS-Ms) channel. 
@@ -186,7 +186,8 @@ If you have any suggestion for this hackaton, feel free to share
 2. Agriculture
 3. Banking & Insurance
 4. Biotechnological & Life Sciences
-5. Construction & Engineering		
+5. Construction & Engineering
+6. Education & Research		
 
 ### Tech Stacks to be use:
 * HTML
