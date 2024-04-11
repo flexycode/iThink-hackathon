@@ -185,7 +185,8 @@ If you have any suggestion for this hackaton, feel free to share
 1. Accommodation & Food
 2. Agriculture
 3. Banking & Insurance
-4. Biotechnological & Life Sciences	
+4. Biotechnological & Life Sciences
+5. Construction & Engineering		
 
 ### Tech Stacks to be use:
 * HTML
