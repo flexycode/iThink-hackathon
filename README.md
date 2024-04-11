@@ -154,7 +154,7 @@ Before reading the Rules of this Challenge, we kindly advise you to check our Ge
 * [Twitter.com/icphub_PH](https://twitter.com/icphub_PH) - ICPhub Philippines Twitter page
 * [internetcomputer.org/docs](https://internetcomputer.org/docs/current/home) - ICP documentation overview
 * [internetcomputer.org/ecosystem](https://internetcomputer.org/ecosystem) - ICP Ecosystem
-* [Internetcomputer.org](https://internetcomputer.org) - ICP Website 
+* [Internetcomputer.org](https://internetcomputer.org) - ICP Website  
 * [Candid UI](https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=3wqca-rqaaa-aaaan-qmd3q-cai) - Similar to GraphQL or POSTMAN, Insomnia, SoapUI  
 * [Cycle Wallet](https://236go-6yaaa-aaaan-qmd4a-cai.icp0.io/) - This should be the overview after the Canister deployed into the mainnet, I guess.
 * [Network Nervous System](https://nns.ic0.app/tokens/) - Manage your ICP, ckBTC, and SNS governance tokens within the NNS wallet
@@ -196,7 +196,8 @@ If you have any suggestion for this hackaton, feel free to share
 12. Justice, Law and Regulations
 13. Miscellaneous
 14. Accounting
-15. Real Estate, Rental & Leasing				     
+15. Real Estate, Rental & Leasing
+16. Utilities				      
 
 ### Tech Stacks to be use:
 * HTML
