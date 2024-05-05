@@ -5,14 +5,17 @@
 
 ## [Introduction](#introduction) 
 
-### 🧊 Team Name: [Artificial Ledger](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  🇵🇭 
+### 🧊 Team Name: [Artificial Ledger](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  🇵🇭  
 ### 🕵️ Team Member:  
-* ####  [Jay Arre Talosig](https://github.com/flexycode) 
+* ####  [Jay Arre Talosig](https://github.com/flexycode)  
 * ####  [Emil John Llanes](https://github.com/0CottonBuds)      
 * ####  [Spencer Jireh Cebrian](https://github.com/spencerjirehcebrian)    
-* ####  [Luisryan Sanisit](https://github.com/Yisaaaa) 
+* ####  [Luisryan Sanisit](https://github.com/Yisaaaa)  
+
+### 🧊[Link for our Hackathon development progress](https://github.com/0CottonBuds/IThink-Hackaton)🧊 
+
   
-### Description:   
+### Description:    
 #### "Push to the Limits” – A nationwide #Web3 Philippine Hackathon 🚀
 
 * Brought you by ISLA Camp (ICP HUB Philippines)
