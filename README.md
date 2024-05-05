@@ -201,17 +201,14 @@ If you have any suggestion for this hackaton, feel free to share
 14. Accounting
 15. Real Estate, Rental & Leasing
 16. Utilities
-17. Wholesale & Retail				       
+17. Wholesale & Retail				        
 
-### Tech Stacks to be use:
+### Tech Stacks that we use:
 * HTML
 * CSS
 * JavaScript
+* React
 * TypeScript
-* Node.js
-* canister smart contract
-* motoko maybe?
-* Rust?
 * Git
 
 
